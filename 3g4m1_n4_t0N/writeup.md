@@ -1,3 +1,4 @@
+
 #  PWNTERAS
 
 ## MISC : 3g4m1_n4_t0N
@@ -11,8 +12,8 @@ hint: zip
 
 ## Files
 
-- Just a .jpeg image lol
-
+- Maybe ust a .jpeg image lol
+<img width="195" height="258" alt="noimage" src="https://github.com/user-attachments/assets/45894bcb-7686-47a8-b91b-8bd0fe4c5889" />
 
 ## Analysis
 
